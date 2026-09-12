@@ -3,7 +3,7 @@ Finding the dominant eigenvalue and corresponding eigenvector of a symmetric mat
 
 ## About
 
-The program allows the user to enter a matrix, performs several power iterations, and calculates an approximation of the largest eigenvalue and its corresponding eigenvector. The project was developed as part of university work during my second year of study.
+The program allows the user to enter a matrix, performs several power iterations, and calculates an approximation of the largest eigenvalue and its corresponding eigenvector. The project was developed as part of university work during the second year of university.
 
 ## Key Variables
 
